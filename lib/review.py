@@ -79,4 +79,3 @@ class Review:
     def get_all(cls):
         """Return a list containing one Review instance per table row"""
         pass
-
